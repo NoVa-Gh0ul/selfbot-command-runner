@@ -31,7 +31,7 @@ Optional Values Include:
 
 - status: `dnd` | `online` | `idle` | `invisible`
 - device_spoof: `phone` | `pc`
-- wait_time: integer value support by `setInterval()` (Currently set to every 2 hours and 5 minutes)
+- wait_time: integer value supported by `setTimeout()` (Currently set to every 2 hours and 5 minutes)
 
 **Extra Info:**
 
