@@ -1,0 +1,30 @@
+{
+  "name": "selfbot-command-runner",
+  "version": "1.0.0",
+  "description": "Simple Discord SelfBot that uses slash commands for you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoVa-Gh0ul/selfbot-command-runner.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord-selfbot",
+    "discord-self-bot",
+    "nodejs",
+    "javascript",
+    "discord",
+    "script",
+    "slash-commands",
+    "discordbot"
+  ],
+  "author": "shwp",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/NoVa-Gh0ul/selfbot-command-runner/issues"
+  },
+  "homepage": "https://github.com/NoVa-Gh0ul/selfbot-command-runner#readme"
+}
