@@ -5,7 +5,7 @@ Discord SelfBot that will use slash commands for you!
 
 This was created by `shwp` on [Discord](https://discord.com/users/1014174658179899503)
 
-You can support his main Xbox-based bot called Guh by [buying guh bot a coffee!](https://buymeacoffee.com/guh_bot)
+You can support his main Xbox-based bot called Guh by [donating!](https://www.cash.app/$guhissocool)
 
 # DISCLAIMER
 
